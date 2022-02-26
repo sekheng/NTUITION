@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/myUSS.uss?fileID=7433441132597879392&amp;guid=d1473e004663cd64db83c2c4cd05e6e6&amp;type=3#myUSS" />
+    <ui:TextField picking-mode="Ignore" label="What" name="WhatinputField" usage-hints="DynamicColor" style="flex-direction: row; align-items: stretch; justify-content: flex-end; flex-wrap: wrap; font-size: 14px; transform-origin: center; overflow: visible;" />
+</ui:UXML>
